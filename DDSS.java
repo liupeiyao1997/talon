@@ -8,7 +8,7 @@ public class DDSS{
 			case 2:System.out.println("奖励电脑一台");
 			break;
 			case 3:
-			System.out.println("奖励一桶油漆喝");
+			System.out.println("奖励硬盘一个");
 			break;
 			default:
 			System.out.println("没有任何奖励");
